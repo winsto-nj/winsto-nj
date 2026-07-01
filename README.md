@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winsto-nj
 - 👀 I’m interested in learning new ways to further expand my horizons in programming
-- 🌱 I’m currently learning anything related to backend development.
+- 🌱 I’m currently learning anything related to fullstack development ,cloud services and cloud security.
 - 📫 How to reach me:Winstonjohnbala@gmail.com
 - 😄 Pronouns: He/Him
   
